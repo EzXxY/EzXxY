@@ -1,8 +1,9 @@
+## About me
 - 👋 Hi, I’m EzXxY
 - 👀 I’m interested in DeepLearning, Web etc.
 - 🌱 I’m currently learning Python, Javascript, VUE etc.
 - 💞️ I’m looking to collaborate on GPU.
-- 📫 You can visit my blog: [EzXxY Blog] (https://blog.ezxxy.work)
+- 📫 You can visit my blog: [EzXxY Blog](https://blog.ezxxy.work)
 
 ## 总览
 
