@@ -1,4 +1,4 @@
-## About me
+## 关于
 - 👋 Hi, I’m EzXxY
 - 👀 I’m interested in DeepLearning, Web etc.
 - 🌱 I’m currently learning Python, Javascript, VUE etc.
