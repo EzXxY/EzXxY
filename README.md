@@ -5,11 +5,11 @@
 - 💞️ I’m looking to collaborate on GPU.
 - 📫 You can visit my blog: [EzXxY Blog](https://blog.ezxxy.work)
 
-## 最近一年
+<!-- ## 最近一年
 
 ![GitHub Light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
 
-![GitHub Dark](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+![GitHub Dark](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only) -->
 
 ## 2023年以来
 
