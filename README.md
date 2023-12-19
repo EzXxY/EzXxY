@@ -1,8 +1,13 @@
 ## 关于
-- 👋 Hi, I’m EzXxY
+- 👋 你好，我是儿爪凶小弋，你的朋友兼对手！
+- 👋 Hi, I’m EzXxY, your frienemy!
+- 👀 我对深度学习和 Web 编程等技术感兴趣。
 - 👀 I’m interested in DeepLearning, Web etc.
+- 🌱 我当前正在学习 Python、Javascript、VUE 等技术。
 - 🌱 I’m currently learning Python, Javascript, VUE etc.
+- 💞️ 我希望能与你在 VPS 和 GPU 方面进行合作。
 - 💞️ I’m looking to collaborate on VPS and GPU.
+- 📫 你可以光顾我的个人博客： [EzXxY Blog](https://blog.ezxxy.work)
 - 📫 You can visit my blog: [EzXxY Blog](https://blog.ezxxy.work)
 
 <!-- ## 最近一年
