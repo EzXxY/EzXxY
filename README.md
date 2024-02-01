@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning Python, Javascript, VUE etc.
 - 💞️ 我希望能与你在 VPS 和 GPU 方面进行合作。
 - 💞️ I’m looking to collaborate on VPS and GPU.
-- 📫 你可以光顾我的个人博客： [EzXxY Blog](https://blog.ezxxy.work)
-- 📫 You can visit my blog: [EzXxY Blog](https://blog.ezxxy.work)
 
 <!-- ## 最近一年
 
